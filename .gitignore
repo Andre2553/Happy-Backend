@@ -1,0 +1,8 @@
+echo "
+bin/**
+lib/**
+pyvenv.cfg
+node_modules
+**.pyc
+"  > .gitignore
+cat .gitignore
